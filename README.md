@@ -11,9 +11,9 @@ An interactive web-based visualization of the N-Queens problem using backtrackin
 
 ## 🧠 Algorithm
 Backtracking approach:
-- Place queens column-wise
-- Validate row, column, diagonal
-- Backtrack on conflicts
+- Place queens column-wise.
+- Validate row, column, diagonal.
+- Backtrack on conflicts.
 
 ## 🛠 Tech Stack
 - HTML

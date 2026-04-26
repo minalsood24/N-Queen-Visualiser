@@ -21,7 +21,7 @@ Backtracking approach:
 - JavaScript
 
 ## 🌐 Live Demo
-https://github.com/minalsood24/N-Queen-Visualiser.git
+ https://minalsood24.github.io/N-Queen-Visualiser/
 
 ## 👩‍💻 Authors
 - Minal Sood  
